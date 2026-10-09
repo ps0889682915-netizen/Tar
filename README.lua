@@ -1,7 +1,3 @@
-
--- TARHUB SPEED CONTROL
--- เพิ่มต่อท้ายโค้ดเมนูเดิม
-
 local speedFrame = Instance.new("Frame")
 speedFrame.Size = UDim2.fromOffset(460, 75)
 speedFrame.Position = UDim2.fromOffset(20, 175)
